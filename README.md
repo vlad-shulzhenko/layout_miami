@@ -1,5 +1,5 @@
 # Miami landing page
-Stack: HTML5, CSS3, SASS, Figma, BEM methodology, JS.
+Stack: HTML5, CSS3, SASS, Figma, BEM methodology.
 
 Click the link to see [DEMO](https://vlad-shulzhenko.github.io/layout_miami/).
 
